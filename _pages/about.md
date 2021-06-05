@@ -2,23 +2,30 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description:
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a PhD student at [Language Technologies Institute](https://lti.cs.cmu.edu/) of [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Dr. Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe). In 2019-2020, I was a PhD student in [CLSP](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I was a member of [X-LANCE Lab](https://x-lance.sjtu.edu.cn/), working with [Dr. Yanmin Qian](https://x-lance.sjtu.edu.cn/members/yanmin-qian) and [Dr. Kai Yu](https://x-lance.sjtu.edu.cn/members/kai_yu). I received my Bachelor's and Master's degree in Computer Science from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+You can find my Curriculum Vitae [here]({% link assets/pdf/Curriculum_Vitae_General.pdf %}).
+
+My research focuses on machine learning and its applications in speech processing. I am interested in the **Cocktail Party Problem**, aiming at building an end-to-end speech recognition system for speech mixtures of multiple sources.
+
+##### Research Directions
+- Speech recognition for single-speaker or multi-speaker
+- Speech separation
+- Speech translation
