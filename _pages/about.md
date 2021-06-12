@@ -21,7 +21,7 @@ I am currently a PhD student at [Language Technologies Institute](https://lti.cs
 
 Previously, I was a member of [X-LANCE Lab](https://x-lance.sjtu.edu.cn/), working with [Dr. Yanmin Qian](https://x-lance.sjtu.edu.cn/members/yanmin-qian) and [Dr. Kai Yu](https://x-lance.sjtu.edu.cn/members/kai_yu). I received my Bachelor's and Master's degree in Computer Science from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). 
 
-You can find my Curriculum Vitae [here]({% link assets/pdf/Curriculum_Vitae_General.pdf %}).
+You can find my Curriculum Vitae [here](https://simpleoier.github.io/assets/pdf/Curriculum_Vitae_General.pdf).
 
 My research focuses on machine learning and its applications in speech processing. I am interested in the **Cocktail Party Problem**, aiming at building an end-to-end speech recognition system for speech mixtures of multiple sources.
 
